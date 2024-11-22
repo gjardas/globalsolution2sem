@@ -21,19 +21,24 @@ export default function Desconto(){
                 <tbody>
                     <tr className="odd:bg-white even:bg-gray-50">
                         <td className="border border-gray-300 px-4 py-2">0 - 1.000</td>
-                        <td className="border border-gray-300 px-4 py-2">5%</td>
+                        <td className="border border-gray-300 px-4 py-2">0.1% - 5%</td>
                     </tr>
                     <tr className="odd:bg-white even:bg-gray-50">
                         <td className="border border-gray-300 px-4 py-2">1.001 - 3.000</td>
-                        <td className="border border-gray-300 px-4 py-2">10%</td>
+                        <td className="border border-gray-300 px-4 py-2">5.1% - 10%</td>
                     </tr>
                     <tr className="odd:bg-white even:bg-gray-50">
                         <td className="border border-gray-300 px-4 py-2">3.000+</td>
-                        <td className="border border-gray-300 px-4 py-2">15%</td>
+                        <td className="border border-gray-300 px-4 py-2">10.1% - 15%</td>
                     </tr>
                 </tbody>
             </table>
         </div>
+        <div>
+                    <Link href={"/"}>
+                    <button type="submit">Voltar para home</button>
+                    </Link>
+                </div>
         </div>
     )
 }
