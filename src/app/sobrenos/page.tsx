@@ -20,8 +20,8 @@ export default function SobreNos() {
                             className="w-40 h-40 object-cover rounded-full mx-auto mb-4"/>
                         <ul className="text-gray-700">
                             <li>Rm: 556814</li>
-                            <li>LinkedIn: <a href="https://www.linkedin.com/in/guilherme-ferreira-jardim-22157a266/" target="_blank" className="text-purple-600">Perfil no LinkedIn</a></li>
-                            <li>GitHub: <a href="https://github.com/gjardas/" target="_blank" className="text-purple-600">Perfil no GitHub</a></li>
+                            <li><a href="https://www.linkedin.com/in/guilherme-ferreira-jardim-22157a266/" target="_blank" className="text-purple-600">Perfil no LinkedIn</a></li>
+                            <li><a href="https://github.com/gjardas/" target="_blank" className="text-purple-600">Perfil no GitHub</a></li>
                         </ul>
                     </div>
 
@@ -33,8 +33,8 @@ export default function SobreNos() {
                             className="w-40 h-40 object-cover rounded-full mx-auto mb-4"/>
                         <ul className="text-gray-700">
                             <li>Rm: 555317</li>
-                            <li>LinkedIn: <a href="#" className="text-purple-600">Perfil no LinkedIn</a></li>
-                            <li>GitHub: <a href="#" className="text-purple-600">Perfil no GitHub</a></li>
+                            <li><a href="#" className="text-purple-600">Perfil no LinkedIn</a></li>
+                            <li><a href="#" className="text-purple-600">Perfil no GitHub</a></li>
                         </ul>
                     </div>
 
@@ -46,8 +46,8 @@ export default function SobreNos() {
                             className="w-40 h-40 object-cover rounded-full mx-auto mb-4"/>
                         <ul className="text-gray-700">
                             <li>Rm: 554945</li>
-                            <li>LinkedIn: <a href="#" className="text-purple-600">Perfil no LinkedIn</a></li>
-                            <li>GitHub: <a href="#" className="text-purple-600">Perfil no GitHub</a></li>
+                            <li><a href="#" className="text-purple-600">Perfil no LinkedIn</a></li>
+                            <li><a href="#" className="text-purple-600">Perfil no GitHub</a></li>
                         </ul>
                     </div>
                 </div>

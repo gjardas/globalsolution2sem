@@ -8,8 +8,7 @@ export default function Home() {
         <Image 
           className="mx-auto mb-8 rounded-xl shadow-lg" 
           src={banner} 
-          alt="Banner FreeSun"
-        />
+          alt="Banner FreeSun"/>
         
         
         <div className="bg-purple-900 p-6 rounded-lg shadow-xl mb-8">

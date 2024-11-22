@@ -46,8 +46,8 @@ export default function Cadastro() {
     return (
         <div className="flex justify-center items-center h-screen bg-gradient-to-r from-purple-600 via-purple-700 to-purple-800 text-black">
             <div className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full">
-                <h1 className="text-3xl font-semibold text-center text-purple-800 mb-6">Cadastro</h1>
-                <h2 className="text-xl font-medium text-center text-purple-700 mb-4">CADASTRO DA EMPRESA</h2>
+                <h1 className="text-3xl font-semibold text-center text-purple-800 mb-6">Cadastro da empresa</h1>
+                <h2 className="text-xl font-medium text-center text-purple-700 mb-4"></h2>
                 <form onSubmit={handleSubmit}>
                     <div className="mb-4">
                         <label htmlFor="idNome" className="block text-gray-700 font-semibold">NOME DA EMPRESA</label>
