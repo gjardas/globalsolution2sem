@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function AnaliseCredito() {
     return (
-        <div className="flex justify-center items-center h-screen bg-gradient-to-r from-purple-600 via-purple-700 to-purple-800 text-white">
+        <div className="flex justify-center items-center h-screen bg-gradient-to-r from-purple-600 via-purple-700 to-purple-800 text-black">
             <div className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full">
                 <h2 className="text-3xl font-semibold text-center text-purple-800 mb-6">Contagem de créditos por consumo</h2>
                 <form>

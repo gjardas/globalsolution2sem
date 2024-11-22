@@ -9,7 +9,7 @@ export default function SobreNos() {
     return (
         <div className="min-h-screen bg-gradient-to-r from-purple-600 via-purple-700 to-purple-800 text-white flex items-center justify-center">
             <div className="max-w-7xl w-full px-6 py-8">
-                <h1 className="text-3xl font-bold text-center text-white mb-8">Sobre Nós</h1>
+                <h1 className="text-3xl font-bold text-center text-white mb-8">Criadores da ideia e desenvolvedores do projeto</h1>
                 <div className="flex flex-wrap justify-center gap-8">
                     
                     <div className="bg-white p-6 rounded-lg shadow-lg w-80 text-center">

@@ -7,7 +7,7 @@ export default function Rodape() {
   return (
     <footer className="bg-purple-900 text-white py-8 mt-0">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
-        <h2 className="font-semibold">Todos os direitos reservados á FreeSunEnergy©</h2>
+        <h2 className="font-semibold">Todos os direitos reservados a FreeSunEnergy ©</h2>
         <div className="flex space-x-6">
           <Image src={insta} alt="Instagram logo" className="w-10 h-10" />
           <Image src={facebook} alt="Facebook logo" className="w-10 h-10" />
