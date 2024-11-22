@@ -10,7 +10,7 @@ export default function Menu() {
         <div>
           <ul className="flex space-x-8">
             <li><Link href="/" className="hover:text-yellow-300 text-xl">Home</Link></li>
-            <li><Link href="/" className="hover:text-yellow-300 text-xl">Sobre nós</Link></li>
+            <li><Link href="/sobrenos" className="hover:text-yellow-300 text-xl">Sobre nós</Link></li>
             <li><Link href="/login" className="hover:text-yellow-300 text-xl">Login</Link></li>
           </ul>
         </div>
