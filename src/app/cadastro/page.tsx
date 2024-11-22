@@ -77,7 +77,7 @@ export default function Cadastro() {
                     </div>
                     <div className="mt-6">
                         <Link href={"/analisecredito"}>
-                        <button type="submit" className="w-full py-2 bg-purple-600 text-black font-semibold rounded-md hover:bg-purple-700 transition duration-300">CADASTRAR</button>
+                        <button type="submit" className="w-full py-2 bg-purple-600 text-white font-semibold rounded-md hover:bg-purple-700 transition duration-300">CADASTRAR</button>
                         </Link>
                     </div>
                 </form>

@@ -33,8 +33,8 @@ export default function SobreNos() {
                             className="w-40 h-40 object-cover rounded-full mx-auto mb-4"/>
                         <ul className="text-gray-700">
                             <li>Rm: 555317</li>
-                            <li><a href="#" className="text-purple-600">Perfil no LinkedIn</a></li>
-                            <li><a href="#" className="text-purple-600">Perfil no GitHub</a></li>
+                            <li><a href="https://www.linkedin.com/in/fernando-fontes-73310b251/" className="text-purple-600">Perfil no LinkedIn</a></li>
+                            <li><a href="https://github.com/xfnd25/" className="text-purple-600">Perfil no GitHub</a></li>
                         </ul>
                     </div>
 
@@ -46,8 +46,8 @@ export default function SobreNos() {
                             className="w-40 h-40 object-cover rounded-full mx-auto mb-4"/>
                         <ul className="text-gray-700">
                             <li>Rm: 554945</li>
-                            <li><a href="#" className="text-purple-600">Perfil no LinkedIn</a></li>
-                            <li><a href="#" className="text-purple-600">Perfil no GitHub</a></li>
+                            <li><a href="https://www.linkedin.com/in/nathaliagmsss/?originalSubdomain=br" className="text-purple-600">Perfil no LinkedIn</a></li>
+                            <li><a href="https://github.com/nathaliagmsss" className="text-purple-600">Perfil no GitHub</a></li>
                         </ul>
                     </div>
                 </div>
