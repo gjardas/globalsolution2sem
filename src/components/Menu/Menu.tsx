@@ -7,9 +7,9 @@ export default function Menu(){
                 <a href=""><span>Free Sun Energy</span></a>
                 <div>
                     <ul>
-                        <li><Link href={"/"}> Home</Link></li>
-                        <li><Link href={"/sobrenos"}>Sobre nós</Link></li>
-                        <li><Link href={"/cadastro"}>Login</Link></li>
+                        <li><Link href={"/desconto"}> Home</Link></li>
+                        <li><Link href={"/"}>Sobre nós</Link></li>
+                        <li><Link href={"/login"}>Login</Link></li>
                     </ul>
                 </div>
             </div>
