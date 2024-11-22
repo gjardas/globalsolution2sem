@@ -3,7 +3,7 @@ import banner from "@/img/banner.jpg";
 
 export default function Home() {
   return (
-    <main className="bg-gradient-to-r from-purple-600 via-purple-700 to-purple-800 text-white p-8">
+    <main className="bg-gradient-to-r from-purple-600 via-purple-700 to-purple-800 text-white p-8 pd-12px">
       <div className="max-w-7xl mx-auto text-center">
         <Image 
           className="mx-auto mb-8 rounded-xl shadow-lg" 
