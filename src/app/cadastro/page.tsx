@@ -21,7 +21,7 @@ export default function Cadastro(){
     const handleSubmit = async(evento:React.FormEvent<HTMLFormElement>)=>{
         evento.preventDefault();
         try{
-            const response = await fetch("ENDPOINT", {
+            const response = await fetch("http://localhost:8080/FreeSunEnergy/api/", {
                 method: "POST",
                 headers: {
                     "Content-Type":"application/json"
